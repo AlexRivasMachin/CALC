@@ -13,6 +13,7 @@ function buttonClick(value) {
     // Número
     handleNumber(value);
   }
+  //asigna
   screen.innerText = count;
 }
 
